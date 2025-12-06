@@ -52,7 +52,7 @@ LinkedIn Job Postings dataset from [Kaggle](https://www.kaggle.com/datasets/arsh
 
 ## Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-analyst-job-market.git
+git clone https://github.com/akhilesh-sivadasan/data-analyst-job-market.git
 cd data-analyst-job-market
 pip install pandas duckdb matplotlib seaborn
 jupyter notebook notebooks/01_exploration.ipynb
